@@ -1,0 +1,19 @@
+//data type and variable
+//variable means container
+
+
+using System;
+
+class salman{
+    public static void Main(string[] args){
+        int a=123;
+        
+        string b="salman";
+        Console.WriteLine(a);
+        Console.Write(b);
+        Console.Write("\tMohammad Salman\n");
+        Console.Write("\tMohammad Salman\n");
+        Console.Write("\tMohammad Salman\n");
+        //single line comment. comment like c
+    }
+}
