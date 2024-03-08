@@ -1,0 +1,12 @@
+using System;
+
+class salman{
+    public static void Main(string[] args){
+        Console.WriteLine(123);
+        /*Console.Write("\tMohammad Salman\n");
+        Console.Write("\tMohammad Salman\n");
+        Console.Write("\tMohammad Salman\n");
+        Console.Write("\tMohammad Salman\n");*/
+        //single line comment. comment like c
+    }
+}
